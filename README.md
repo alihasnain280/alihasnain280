@@ -37,6 +37,6 @@ I am an Electrical Engineering undergraduate passionate about the intersection o
 ---
 
 ### 📫 Connect with Me
-<a href="https://www.linkedin.com/in/your-linkedin-url/">
+<a href="https://www.linkedin.com/in/[your-linkedin-url](https://www.linkedin.com/in/ali-hasnain-2856b33a1/)/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
