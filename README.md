@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Ali Hasnain 👋
 
-<!--
-**alihasnain280/alihasnain280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Electrical Engineering Student | C++ Developer
 
-Here are some ideas to get you started:
+I am an Electrical Engineering undergraduate passionate about the intersection of hardware and software. I focus on efficient algorithmic problem-solving and building systems that bridge the gap between code and circuits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+### 🔭 Current Focus
+- **Core:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
+- **Engineering:** Circuit Analysis, Digital Logic Design, Signals & Systems
+- **Projects:** Student Management Systems, Vending Machine Simulations
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<a href="https://www.linkedin.com/in/your-linkedin-url/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
